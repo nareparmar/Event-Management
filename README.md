@@ -1,5 +1,5 @@
 # Event Management Platform Challenge Solution
-
+<br>
 This repository contains the solution for the Event Management Platform (EMP) coding challenge. It demonstrates the ability to design and implement a clean, efficient, and well-structured backend service using Node.js and TypeScript.
 
 ## Overview
